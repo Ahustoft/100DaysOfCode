@@ -4,6 +4,6 @@
 
 **Today's Progress**: Set up the project files and made a small plan.
 
-**Thoughts:**
+**Thoughts:** Hope to get stronger at vanilla JS from this.
 
-**Link to work:**
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
