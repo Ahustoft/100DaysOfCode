@@ -16,10 +16,10 @@
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
 
-### Day 3: April 18, 2019
+### Day 2: April 18, 2019
 
-**Today's Progress**: Did research for making an artist portfolio site for a friend.
+**Today's Progress**: Set up some of the HTML layout for the navbar, did research on navbars.
 
-**Thoughts:** Found some good inspiration and set up folders and files for the project.
+**Thoughts:** Trying to figure out a proper way to set up the navbar, and think i will go for mobile first approach.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
