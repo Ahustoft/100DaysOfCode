@@ -23,3 +23,11 @@
 **Thoughts:** Trying to figure out a proper way to set up the navbar, and think i will go for mobile first approach.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 3: April 19, 2019
+
+**Today's Progress**: Did basic css and js for navbar, with minor tweaks to html.
+
+**Thoughts:** Semi happy with the navbar so far, need to add more animations to it so it looks a bit better.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
