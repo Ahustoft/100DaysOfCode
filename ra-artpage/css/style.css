@@ -17,10 +17,12 @@
 .navbar-nav {
   list-style-type: none;
   display: none;
+  width: 100%;
 }
 .navbar-item {
   list-style-type: none;
   text-align: center;
+  margin-bottom: 10px;
 }
 .navbar-item a {
   text-decoration: none;
@@ -30,9 +32,6 @@
   padding: 0 20px;
 }
 .navbar-item a:hover {
-  color: rgb(255, 143, 161);
-}
-.navbar-item a:active {
   color: rgb(255, 143, 161);
 }
 .logo {
@@ -45,6 +44,16 @@
 }
 .active {
   display: block;
+}
+.contact-form form {
+  font-family: "Raleway", sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+}
+input[type="text"] {
+  height: 25px;
+  width: 90%;
+  margin: 10px auto;
 }
 @media screen and (min-width: 768px) {
   .navbar {

@@ -31,3 +31,11 @@
 **Thoughts:** Semi happy with the navbar so far, need to add more animations to it so it looks a bit better.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 4: April 20, 2019
+
+**Today's Progress**: More work on the navbar and started filling out some of the other parts of the page.
+
+**Thoughts:** Think i'll have to do some research on a good setup for a contact form.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
