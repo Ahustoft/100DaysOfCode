@@ -39,3 +39,11 @@
 **Thoughts:** Think i'll have to do some research on a good setup for a contact form.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 5: April 21, 2019
+
+**Today's Progress**: Worked on CSS for the most part.
+
+**Thoughts:** Exhausted today so decided to just work on some easy CSS.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
