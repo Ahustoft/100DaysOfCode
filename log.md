@@ -47,3 +47,11 @@
 **Thoughts:** Exhausted today so decided to just work on some easy CSS.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 6: April 22, 2019
+
+**Today's Progress**: Learned more about CSS animations.
+
+**Thoughts:** Think i will try to implement a combination of css and js animations.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode

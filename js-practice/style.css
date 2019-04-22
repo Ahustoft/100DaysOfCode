@@ -1,0 +1,19 @@
+@keyframes background {
+  0% {
+    background-color: lightcoral;
+  }
+  50% {
+    background-color: lightgreen;
+  }
+  100% {
+    background-color: lightcoral;
+  }
+}
+.box {
+  width: 300px;
+  height: 300px;
+  background-color: lightcoral;
+  animation-name: background;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
