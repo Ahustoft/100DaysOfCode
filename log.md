@@ -55,3 +55,11 @@
 **Thoughts:** Think i will try to implement a combination of css and js animations.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 7: April 23, 2019
+
+**Today's Progress**: Spent time learning about API's and practicing on a local server.
+
+**Thoughts:** Had the first day of API lessons today and felt the need to dive more into it to better understand it.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
