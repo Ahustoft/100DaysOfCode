@@ -1,4 +1,4 @@
-@keyframes background {
+/* @keyframes background {
   0% {
     background-color: lightcoral;
   }
@@ -16,4 +16,4 @@
   animation-name: background;
   animation-duration: 5s;
   animation-iteration-count: infinite;
-}
+} */
