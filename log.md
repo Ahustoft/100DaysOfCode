@@ -63,3 +63,11 @@
 **Thoughts:** Had the first day of API lessons today and felt the need to dive more into it to better understand it.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 8: April 24, 2019
+
+**Today's Progress:** Spent the evening with some JS practice.
+
+**Thoughts:** Trying to dive a bit deeper into JS so i understand better what i'm actually writing.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
