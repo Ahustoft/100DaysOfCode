@@ -71,3 +71,10 @@
 **Thoughts:** Trying to dive a bit deeper into JS so i understand better what i'm actually writing.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+### Day 9: April 25, 2019
+
+**Today's Progress:** Wrote a case study for one of my projects and looked at some js.
+
+**Thoughts:** Was interresting writing a case study, will have to practice that a bit for portfolio.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
