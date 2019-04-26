@@ -71,10 +71,19 @@
 **Thoughts:** Trying to dive a bit deeper into JS so i understand better what i'm actually writing.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
 ### Day 9: April 25, 2019
 
 **Today's Progress:** Wrote a case study for one of my projects and looked at some js.
 
 **Thoughts:** Was interresting writing a case study, will have to practice that a bit for portfolio.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 10: April 26, 2019
+
+**Today's Progress:** Did some JS work on a small game side project just for some more JS fun.
+
+**Thoughts:** Figured i would add this small game project to the mix so i can play around a bit with it when i want test out some JS stuff.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
