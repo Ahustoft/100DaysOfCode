@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Indie+Flower"
+      rel="stylesheet"
+    />
+
+    <title>Silly Game</title>
+  </head>
+  <body class="gamebody container mt-5">
+    <div class="row justify-content-center">
+      <div class="cats col text-center">
+        <div class="btn" id="cat" onclick="catClick(1)">
+          <img src="/incremental-game/images/catlogo.png" alt="Cat logo" />
+        </div>
+        <br />
+        Cats: <span id="cats">0</span>
+      </div>
+    </div>
+    <div class="catgens row justify-content-center">
+      <div class="col-2 text-center">
+        <div class="btn" onclick="buyCheeseburger()">
+          <img
+            class="cheeseburger"
+            src="/incremental-game/images/cheeseburger.png"
+            alt="cheeseburger"
+          />
+        </div>
+        <br />
+        Cheeseburgers: <span id="cheeseburger">0</span>
+        <br />
+        Cheeseburger Cost: <span id="cheeseburgerCost">10</span>
+        <br />
+      </div>
+      <div class="catgens col-2 text-center">
+        <div class="btn" onclick="buyMouse()">
+          <img
+            class="mouse"
+            src="/incremental-game/images/mouse.png"
+            alt="mouse"
+          />
+        </div>
+        <br />
+        Mice: <span id="mouse">0</span>
+        <br />
+        Mouse Cost: <span id="mouseCost">150</span>
+      </div>
+    </div>
+    <div class="container mt-3">
+      <div class="row justify-content-center">
+        <button class="btn btn-success mx-1" onclick="save()">Save</button>
+        <button class="btn btn-info mx-1" onclick="load()">Load</button>
+        <button class="btn btn-danger mx-1" onclick="del()">Delete Save</button>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/incremental-game/js/game.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

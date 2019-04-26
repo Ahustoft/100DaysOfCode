@@ -1,0 +1,135 @@
+body {
+  background-image: url(/incremental-game/images/cloud.jpg);
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  font-family: "Indie Flower", cursive;
+}
+.navbar {
+  background-color: purple;
+}
+/* .nav-item {
+    margin: 10px;
+} */
+.nav-item a {
+  color: whitesmoke !important;
+  font-size: 25px;
+  padding: 0;
+  margin: 0;
+}
+.nav-item a:hover {
+  background: rgb(68, 0, 68) !important;
+  border: 1px solid rgb(192, 119, 192);
+  border-radius: 5px;
+}
+.navbar-brand > img {
+  height: 100px;
+}
+section .col,
+.col-8 {
+  width: 70%;
+  background: palegreen;
+  border: 1px solid green;
+}
+aside.links {
+  width: 29%;
+  background: rgb(80, 114, 80);
+  border: 1px solid rgb(6, 43, 6);
+}
+.container.bottom {
+  background-color: purple;
+  width: 100%;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+a:hover {
+  color: lightcoral;
+}
+a {
+  color: lightgreen;
+}
+li {
+  list-style: none;
+}
+.logo {
+  position: absolute;
+  top: 120px;
+}
+.logo > img {
+  height: 20px;
+}
+.logo2 {
+  position: absolute;
+  top: 720px;
+}
+.logo2 > img {
+  height: 20px;
+}
+canvas {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 1730px;
+  bottom: 0;
+  background: rgba(30, 30, 50, 1);
+  z-index: -0;
+}
+.modal-header {
+  background: purple;
+  justify-content: flex-start;
+}
+.modal-title {
+  text-align: center;
+}
+.modal-body {
+  background: palegreen;
+}
+.close {
+  float: right;
+  font-size: 50px;
+}
+.modal-footer {
+  background: purple;
+}
+.title {
+  justify-content: center;
+}
+.asidelogo {
+  height: 150px;
+  animation: spin 5s linear infinite;
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.gamebody {
+  background-image: url(/incremental-game/images/cloud.jpg);
+  color: whitesmoke;
+}
+.cheeseburger,
+.mouse {
+  height: 100px;
+}
+.cats {
+  color: brown;
+  font-size: 50px;
+}
+.catgens > .col-2 {
+  border: 2px solid rgb(0, 43, 0);
+  border-radius: 15px;
+  margin: 20px;
+  background: rgb(73, 146, 0);
+  font-size: 20px;
+}
+.btn:active {
+  transform: translateY(4px);
+}
+div > h1,
+h3 {
+  color: whitesmoke;
+}
