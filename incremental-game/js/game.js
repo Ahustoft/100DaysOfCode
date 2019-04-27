@@ -1,15 +1,17 @@
-var cats = 0;
+// cat clicks
+let cats = 0;
 
 function catClick(number) {
   cats = cats + number;
   document.getElementById("cats").innerHTML = cats;
 }
 
-var cheeseburger = 0;
-var nextburgerCost = 0;
+let cheeseburger = 0;
+let nextburgerCost = 0;
 
+//auto generators
 function buyCheeseburger() {
-  var cheeseburgerCost = Math.floor(10 * Math.pow(1.2, cheeseburger));
+  let cheeseburgerCost = Math.floor(10 * Math.pow(1.2, cheeseburger));
   if (cats >= cheeseburgerCost) {
     cheeseburger = cheeseburger + 1;
     cats = cats - cheeseburgerCost;
@@ -24,11 +26,11 @@ window.setInterval(function() {
   catClick(cheeseburger);
 }, 1000);
 
-var mouse = 0;
-var nextmouseCost = 0;
+let mouse = 0;
+let nextmouseCost = 0;
 
 function buyMouse() {
-  var mouseCost = Math.floor(150 * Math.pow(1.4, mouse));
+  let mouseCost = Math.floor(150 * Math.pow(1.4, mouse));
   if (cats >= mouseCost) {
     mouse = mouse + 1;
     cats = cats - mouseCost;
@@ -43,6 +45,9 @@ window.setInterval(function() {
   catClick(mouse * 5);
 }, 1000);
 
+//powerups
+function catPower() {}
+//save, load and delete
 function save() {
   localStorage.setItem("cats", JSON.stringify(cats));
   localStorage.setItem("cheeseburger", JSON.stringify(cheeseburger));
