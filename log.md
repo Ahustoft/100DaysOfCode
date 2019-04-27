@@ -87,3 +87,11 @@
 **Thoughts:** Figured i would add this small game project to the mix so i can play around a bit with it when i want test out some JS stuff.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 11: April 27, 2019
+
+**Today's Progress:** More time spent on JS for the small game project.
+
+**Thoughts:** Trying to figure out how to add powerups to the game.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
