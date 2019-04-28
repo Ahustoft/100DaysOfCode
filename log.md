@@ -95,3 +95,11 @@
 **Thoughts:** Trying to figure out how to add powerups to the game.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 12: April 28, 2019
+
+**Today's Progress:** Tried solving some of the problems I had yesterday, and actually made things work.
+
+**Thoughts:** Was a fun learning experience to actually make something work without having to google it.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
