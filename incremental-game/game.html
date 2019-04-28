@@ -26,7 +26,9 @@
           <img src="/incremental-game/images/catlogo.png" alt="Cat logo" />
         </div>
         <br />
-        Cats: <span id="cats">0</span>
+        Cats: <span id="cats"></span><br />
+        Cats per click: <span id="cpc">1</span><br />
+        Auto Cats per second: <span id="cps">0</span>
       </div>
     </div>
     <div class="catgens row justify-content-center">
@@ -36,12 +38,14 @@
             class="cheeseburger"
             src="/incremental-game/images/cheeseburger.png"
             alt="cheeseburger"
+            data-toggle="tooltip"
+            title="Generates 1 Cats per level!"
           />
         </div>
         <br />
         Cheeseburgers: <span id="cheeseburger">0</span>
         <br />
-        Cheeseburger Cost: <span id="cheeseburgerCost">10</span>
+        Cheeseburger Cost: <span id="cheeseburgerCost">100</span>
         <br />
       </div>
       <div class="catgens col-2 text-center">
@@ -50,18 +54,26 @@
             class="mouse"
             src="/incremental-game/images/mouse.png"
             alt="mouse"
+            data-toggle="tooltip"
+            title="Generates 5 Cats per level!"
           />
         </div>
         <br />
         Mice: <span id="mouse">0</span>
         <br />
-        Mouse Cost: <span id="mouseCost">150</span>
+        Mouse Cost: <span id="mouseCost">1500</span>
       </div>
     </div>
     <div class="powerups row">
-      <div class="col-2 catclick-boost">
+      <div
+        class="col-2 catclick-boost"
+        onclick="catPower()"
+        data-toggle="tooltip"
+        title="Boosts clicking power by 1 per level!"
+      >
         <h3>Cat power!</h3>
-        <h3>Level: <span id="catpower"></span></h3>
+        <h3>Level: <span id="catpower">0</span></h3>
+        <h3>Cost: <span id="catpowerCost">500</span></h3>
       </div>
     </div>
     <div class="container mt-3">

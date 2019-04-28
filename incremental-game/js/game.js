@@ -1,52 +1,79 @@
 // cat clicks
-let cats = 0;
+let cats = 500;
+let cheeseburger = 0;
+let nextburgerCost = 0;
+let mouse = 0;
+let nextmouseCost = 0;
+let cps = 0;
+let cpc = 1;
 
 function catClick(number) {
-  cats = cats + number;
+  cats = cats + number + catPowers;
   document.getElementById("cats").innerHTML = cats;
 }
 
-let cheeseburger = 0;
-let nextburgerCost = 0;
-
 //auto generators
+
 function buyCheeseburger() {
-  let cheeseburgerCost = Math.floor(10 * Math.pow(1.2, cheeseburger));
+  let cheeseburgerCost = Math.floor(100 * Math.pow(1.2, cheeseburger));
   if (cats >= cheeseburgerCost) {
     cheeseburger = cheeseburger + 1;
     cats = cats - cheeseburgerCost;
+    cps = cps + 1;
     document.getElementById("cheeseburger").innerHTML = cheeseburger;
     document.getElementById("cats").innerHTML = cats;
+    document.getElementById("cps").innerHTML = cps;
   }
-  nextburgerCost = Math.floor(10 * Math.pow(1.2, cheeseburger));
+  nextburgerCost = Math.floor(100 * Math.pow(1.2, cheeseburger));
   document.getElementById("cheeseburgerCost").innerHTML = nextburgerCost;
 }
 
 window.setInterval(function() {
-  catClick(cheeseburger);
+  cats = cats + cheeseburger;
+  document.getElementById("cats").innerHTML = cats;
 }, 1000);
 
-let mouse = 0;
-let nextmouseCost = 0;
-
 function buyMouse() {
-  let mouseCost = Math.floor(150 * Math.pow(1.4, mouse));
+  let mouseCost = Math.floor(1500 * Math.pow(1.4, mouse));
   if (cats >= mouseCost) {
     mouse = mouse + 1;
     cats = cats - mouseCost;
+    cps = cps + 5;
     document.getElementById("mouse").innerHTML = mouse;
     document.getElementById("cats").innerHTML = cats;
+    document.getElementById("cps").innerHTML = cps;
   }
-  nextmouseCost = Math.floor(150 * Math.pow(1.4, mouse));
+  nextmouseCost = Math.floor(1500 * Math.pow(1.4, mouse));
   document.getElementById("mouseCost").innerHTML = nextmouseCost;
 }
 
 window.setInterval(function() {
-  catClick(mouse * 5);
+  if (mouse > 0) {
+    cats = cats + mouse * 5;
+    document.getElementById("cats").innerHTML = cats;
+  }
 }, 1000);
 
+cps = cheeseburger + mouse * 5;
+
 //powerups
-function catPower() {}
+let catPowers = 0;
+let nextCatPowerCost = 0;
+
+function catPower() {
+  let catPowerCost = Math.floor(500 * Math.pow(1.5, catPowers));
+  if (cats >= catPowerCost) {
+    catPowers = catPowers + 1;
+    cats = cats - catPowerCost;
+    cpc = cpc + catPowers;
+    document.getElementById("catpower").innerHTML = catPowers;
+    document.getElementById("cats").innerHTML = cats;
+    document.getElementById("cpc").innerHTML = cpc;
+  }
+  nextCatPowerCost = Math.floor(500 * Math.pow(1.5, catPowers));
+  document.getElementById("catpowerCost").innerHTML = nextCatPowerCost;
+}
+
 //save, load and delete
 function save() {
   localStorage.setItem("cats", JSON.stringify(cats));
@@ -92,3 +119,7 @@ function del() {
   localStorage.removeItem("nextburgerCost");
   localStorage.removeItem("nextmouseCost");
 }
+
+$(document).ready(function() {
+  $('[data-toggle="tooltip"]').tooltip();
+});
