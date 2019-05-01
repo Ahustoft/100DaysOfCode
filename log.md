@@ -103,3 +103,19 @@
 **Thoughts:** Was a fun learning experience to actually make something work without having to google it.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 13: April 29, 2019
+
+**Today's Progress:** Spent time doing course work, setting up mailchimp api with php, took a while to figure out.
+
+**Thoughts:** Having just started on the backend these things require quite a bit of work to understand.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 14: May 1, 2019
+
+**Today's Progress:** Made some minor tweaks to the Game project JS.
+
+**Thoughts:** Had to have a bit of fun after a long day.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
