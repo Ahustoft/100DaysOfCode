@@ -119,3 +119,11 @@
 **Thoughts:** Had to have a bit of fun after a long day.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 15: May 2, 2019
+
+**Today's Progress:** Tried to wrap my brain around some Node.js from the course today.
+
+**Thoughts:** Back-end is very different from front-end but it's fun to try figuring it out.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
