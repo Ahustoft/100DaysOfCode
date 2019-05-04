@@ -127,3 +127,19 @@
 **Thoughts:** Back-end is very different from front-end but it's fun to try figuring it out.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 16: May 3, 2019
+
+**Today's Progress:** Continued some Node.js learning, mostly watching tutorials on youtube and some guru99 reading.
+
+**Thoughts:** Back-end is very different from front-end but it's fun to try figuring it out.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 17: May 4, 2019
+
+**Today's Progress:** Finished up the Node.js work from yesterday planning to continue with some HTML/CSS/JS tomorrow.
+
+**Thoughts:** Back-end is very different from front-end but it's fun to try figuring it out.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
