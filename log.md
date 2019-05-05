@@ -143,3 +143,11 @@
 **Thoughts:** Back-end is very different from front-end but it's fun to try figuring it out.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 18: May 5, 2019
+
+**Today's Progress:** Started work on a weather app from codeburst.io with Node.js + Express.
+
+**Thoughts:** Figured i would do some more node.js work as we are still working quite a bit with it in the course.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
