@@ -151,3 +151,11 @@
 **Thoughts:** Figured i would do some more node.js work as we are still working quite a bit with it in the course.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 19: May 6, 2019
+
+**Today's Progress:** Finished the base setup of the weather app from yesterday.
+
+**Thoughts:** Might come back to this at a later point and make it pretty.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
