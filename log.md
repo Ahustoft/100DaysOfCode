@@ -159,3 +159,19 @@
 **Thoughts:** Might come back to this at a later point and make it pretty.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 20: May 7, 2019
+
+**Today's Progress:** Decided to do research on making my own discord bot, and started setting up the basics for it.
+
+**Thoughts:** Figured this would be a fun way to practice some JS and node since i use discord all the time.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 21: May 8, 2019
+
+**Today's Progress:** Finished the bot setup and started adding some commands for it.
+
+**Thoughts:** Will continue to add commands and functions to this for the next couple of days. Just for the sake of practice.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
