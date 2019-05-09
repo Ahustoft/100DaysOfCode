@@ -175,3 +175,11 @@
 **Thoughts:** Will continue to add commands and functions to this for the next couple of days. Just for the sake of practice.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 22: May 9, 2019
+
+**Today's Progress:** Did some changes to the bot and added a command package to make it a bit straight forward to add commands. 
+
+**Thoughts:** Not many thoughts for todays works, was fun playing around tho.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
