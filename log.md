@@ -183,3 +183,30 @@
 **Thoughts:** Not many thoughts for todays works, was fun playing around tho.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 23: May 10, 2019
+
+**Today's Progress:** Worked on course assignment. Making and e-commerce site.
+Trying to set up a sign in system. 
+
+**Thoughts:** Not many thoughts for todays work.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 24: May 11, 2019
+
+**Today's Progress:** Worked on course assignment. Making and e-commerce site.
+Did some minor fixes from last nights work. 
+
+**Thoughts:** Not many thoughts for todays work.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 25: May 12, 2019
+
+**Today's Progress:** Worked on course assignment. Making and e-commerce site. 
+Set up some dummy products to test with the shopping cart.
+
+**Thoughts:** Not many thoughts for todays work.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
