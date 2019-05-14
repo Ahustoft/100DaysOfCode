@@ -210,3 +210,19 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Not many thoughts for todays work.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 26: May 13, 2019
+
+**Today's Progress:** Set up a sign in/sign up part to the shop. Got it working somewhat but needs some fixes tomorrow.
+
+**Thoughts:** Still getting some minor error with the csrf codes, needs more looking in to.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 27: May 14, 2019
+
+**Today's Progress:** Finished up the sign up and sign in, now just some minor routing changes to clean things up a bit. 
+
+**Thoughts:** Happy with todays work, glad to see it working as intended. 
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
