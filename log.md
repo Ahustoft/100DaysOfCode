@@ -226,3 +226,11 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Happy with todays work, glad to see it working as intended. 
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 28: May 15, 2019
+
+**Today's Progress:** Finished up the sign up and sign in, now just some minor routing changes to clean things up a bit. 
+
+**Thoughts:** Happy with todays work, glad to see it working as intended. 
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
