@@ -229,8 +229,8 @@ Set up some dummy products to test with the shopping cart.
 
 ### Day 28: May 15, 2019
 
-**Today's Progress:** Finished up the sign up and sign in, now just some minor routing changes to clean things up a bit. 
+**Today's Progress:** Set up the basics of storing items in a session for the shopping cart. Hope to get it done this week. 
 
-**Thoughts:** Happy with todays work, glad to see it working as intended. 
+**Thoughts:** Glad to get started on the final bits of this task.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
