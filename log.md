@@ -234,3 +234,35 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Glad to get started on the final bits of this task.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 29: May 16, 2019
+
+**Today's Progress:** Got the shopping cart working in the console so next step is to make it visual! Getting there.
+
+**Thoughts:** Was happy to see the cart working today.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 30: May 17, 2019
+
+**Today's Progress:** Exhausted after a long day of celebration. So i only played around with some javascript.
+
+**Thoughts:** Just tired....
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 31: May 18, 2019
+
+**Today's Progress:**  Chilled with some more JS practice. Playing around with loops and intervals.
+
+**Thoughts:** Lots of celebrating etc this weekend, not a lot of room to code.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 32: May 19, 2019
+
+**Today's Progress:** Got the shopping cart page set up, and linked up to the database. 
+
+**Thoughts:** Slowly getting there.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
