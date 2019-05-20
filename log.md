@@ -266,3 +266,11 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Slowly getting there.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 33: May 20, 2019
+
+**Today's Progress:**  Added items and prices in the shopping cart, starting to come together nicely. Next is the ability to remove items from the cart. 
+
+**Thoughts:** Slowly getting there.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
