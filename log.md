@@ -274,3 +274,11 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Slowly getting there.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 34: May 20, 2019
+
+**Today's Progress:** Slow evening of work so i just set up the html and css for checkout page. 
+
+**Thoughts:** Slowly getting there.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
