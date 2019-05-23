@@ -283,10 +283,18 @@ Set up some dummy products to test with the shopping cart.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
 
-### Day 34: May 22, 2019
+### Day 35: May 22, 2019
 
-**Today's Progress:** Added the basic setup for stipe payment system and started on remove one/all items from shopping cart.
+**Today's Progress:** Added the basic setup for stripe payment system and started on remove one/all items from shopping cart.
 
 **Thoughts:** Some good progress today, will need to fix some bugs with the remove items code as it returns an error at the moment.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 36: May 23, 2019
+
+**Today's Progress:** Fixed the rest of the remove one/all code and tried to do some minor fixes to sign in and sign out code.
+
+**Thoughts:** Ended up with a bug where user gets infinite redirects when signing out.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
