@@ -298,3 +298,27 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Ended up with a bug where user gets infinite redirects when signing out.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 37: May 24, 2019
+
+**Today's Progress:** Spent most of this evening session reading stripe docs. Trying to figure this whole thing out before i implement it.
+
+**Thoughts:** All the info in my brain :D
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 38: May 25, 2019
+
+**Today's Progress:** Just played around with some JS, was not the most productive of days. It will be better tomorrow!
+
+**Thoughts:** Fried brain today so just messed around.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 39: May 26, 2019
+
+**Today's Progress:** It was not better today! Heh, too tired to fix much so ended up just playing around with some CSS for the shop.
+
+**Thoughts:** Fried brain today so just messed around.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
