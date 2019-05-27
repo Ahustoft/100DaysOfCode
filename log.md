@@ -322,3 +322,11 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Fried brain today so just messed around.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 40: May 27, 2019
+
+**Today's Progress:** Fixed sign up/sign in/sign out finally. No more infinite redirects! 
+
+**Thoughts:** Was good to finally get this sorted, was bothering me.
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
