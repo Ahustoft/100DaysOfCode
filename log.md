@@ -330,3 +330,11 @@ Set up some dummy products to test with the shopping cart.
 **Thoughts:** Was good to finally get this sorted, was bothering me.
 
 **Link to work:** https://github.com/Ahustoft/100DaysOfCode
+
+### Day 41: May 28, 2019
+
+**Today's Progress:** Worked on setting up stripe payment on the shop, watched a tutorial on it but was a bit old so read some more of the documentation instead.
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/Ahustoft/100DaysOfCode
